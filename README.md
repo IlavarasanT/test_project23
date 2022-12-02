@@ -1,1 +1,1 @@
-# test_project23
+# test_project for git commands demonstration.
